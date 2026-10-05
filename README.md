@@ -53,6 +53,9 @@ I'm a Computer Engineer with **4+ years of experience** building enterprise soft
 ## ✍️ Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jev: Konuşamayan, Karar Veren Yapay Zeka](https://medium.com/@rumeysaturkan16/jev-konu%C5%9Famayan-karar-veren-yapay-zeka-edc1fdc8a7b4?source=rss-75011e6852ec------2)
+- [RAG Sistemlerini “Kara Kutu” Olmaktan Çıkarmak: Local-First Bir Gözlemlenebilirlik Aracı](https://medium.com/@rumeysaturkan16/rag-sistemlerini-kara-kutu-olmaktan-%C3%A7%C4%B1karmak-local-first-bir-g%C3%B6zlemlenebilirlik-arac%C4%B1-99d4d49bde06?source=rss-75011e6852ec------2)
+- [Aynı Dashboard, 3 Yaklaşım: SPA, Astro Islands ve React Server Components — Performans ve Mimari…](https://medium.com/@rumeysaturkan16/ayn%C4%B1-dashboard-3-yakla%C5%9F%C4%B1m-spa-astro-islands-ve-react-server-components-performans-ve-mimari-678275985dc6?source=rss-75011e6852ec------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
