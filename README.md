@@ -1,35 +1,65 @@
-<h1> Hi there, I'm Rumeysa👋</h1>
-I like to learn new technologies and improve myself in many fields. I want to accelerate my learning process by sharing my projects on full stack web application development, mobile application development, image processing technologies, data science and similar fields.😊 
+<h1 align="center">Hi there, I'm Rumeysa 👋</h1>
+<h3 align="center">Full-Stack Software Engineer · Next.js · React · .NET · AI Integration</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rumeysaturkan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@rumeysaturkan16"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:rumeysa.turkan@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+</p>
 
+---
 
-- 🔭 I’m currently working on **Full Stack Web Development Technologies**.
-- 🌱 I’m currently learning **.Net Core, React.Js,**.
+## 👩‍💻 About Me
 
-## ✌ Connect with me
- <a href="https://www.linkedin.com/in/rumeysaturkan/">
-   <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+I'm a Computer Engineer with **4+ years of experience** building enterprise software at **Doğuş Teknoloji**.
 
+- ⚛️ On the frontend, I build large-scale admin panels and component-driven architectures with **React, Next.js and TypeScript**
+- ⚙️ On the backend, I design scalable systems with **.NET 9 / 10** and **Clean Architecture**
+- 🤖 I develop AI assistants using **RAG** and **Semantic Kernel**, backed by job queues and background workers for long-running AI tasks
+- 📱 I also build mobile apps with **Flutter**
+- ✍️ I write about what I learn on [Medium](https://medium.com/@rumeysaturkan16)
 
-## 🧰 Languages and Tools:
+---
 
+## 🧰 Tech Stack
 
- <img src="https://skillicons.dev/icons?i=cs,react,js,python,dotnet,flutter,kotlin,html,tailwind,bootstrap,css,scss,firebase,postgres,figma" />
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,vue,redux,tailwind,html,css,scss,bootstrap" />
 
-<!---
-## :trophy: My Github Stats:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=rumeysaturkan&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rumeysaturkan&hide=php&theme=tokyonight)
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,mongodb,azure" />
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=rumeysaturkan&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=rumeysaturkan&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysaturkan&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysaturkan&hide=php&theme=tokyonight" />
-</a>
-</div>
+**Mobile & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,jest,figma,git" />
+
+**🤖 AI & LLM**
+<br/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-1E293B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+**Also:** Shadcn UI · RTK Query · Zustand · MobX · Zod · TanStack Table · Storybook · Orval · Cypress · MSSQL
+
+---
+
+## ✍️ Latest Medium Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rumeysaturkan&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysaturkan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
